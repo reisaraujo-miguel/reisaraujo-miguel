@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ιεμς 
-- 👀 I’m interested in Free Software projects
+- 👀 I’m interested in software engeneering
 - 🌱 I’m currently studying Computer Science at University of São Paulo
 - 💞️ I’m looking to collaborate on Free Software projects
 - 📫 How to reach me: leuugz@gmail.com
