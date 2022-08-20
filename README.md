@@ -30,11 +30,12 @@
 ### :fire: My Stats :
 
 <p align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=Leuug&theme=midnight-purple" alt="Streak Status"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leuug&layout=compact&theme=midnight-purple" alt="Profile Status"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Leuug&theme=midnight-purple" alt="Streak Status"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leuug&layout=compact&theme=midnight-purple" alt="Profile Status"/>
 </p>
+
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leuug&layout=compact&theme=midnight-purple" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leuug&layout=compact&theme=midnight-purple" alt="Top Languages"/>
 </p>
 
 <!---
