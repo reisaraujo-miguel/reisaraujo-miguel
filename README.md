@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bbe75b3fff295b10b42c8054e770f6422494d62b&rid=giphy.gif&ct=g" width="400"/>
+  <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bbe75b3fff295b10b42c8054e770f6422494d62b&rid=giphy.gif&ct=g" width="400" alt="Animated GIF"/>
   
   <h1>
     Hi, I’m ιεμς
@@ -9,8 +9,17 @@
       </a>
     </div>
   </h1>
-  <img src="https://komarev.com/ghpvc/?username=Leuug&style=flat-square&color=blue" alt=""/>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leuug&style=flat-square&color=blue" alt="Profile Views Counter"/>
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Leuug&theme=radical&column=-1" alt="Leuug Trophies" />
+  </a>
+</p>
 
 ### :man_technologist: About Me :
 
@@ -20,12 +29,14 @@
 
 ### :fire: My Stats :
 
-<div align="center">
+<p align="center">
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com?user=Leuug&theme=midnight-purple" alt="Streak Status"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Leuug&layout=compact&theme=midnight-purple" alt="Profile Status"/>
+</p>
+<p align="center">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leuug&layout=compact&theme=midnight-purple" alt="Top Languages"/>
+</p>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leuug&theme=midnight-purple)](https://git.io/streak-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leuug&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leuug&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-</div
 <!---
 Leuug/Leuug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
