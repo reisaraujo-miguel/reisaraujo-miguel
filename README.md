@@ -2,12 +2,14 @@
   <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bbe75b3fff295b10b42c8054e770f6422494d62b&rid=giphy.gif&ct=g" width="400" alt="Animated GIF"/>
   
   <h1>
-    Hi, I’m ιεμς
+    Hi, I’m Miguel
+    <!-- 
     <div id="badges">
-      <a href="https://twitter.com/Leug_">
+      <a href="https://twitter.com/">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
     </div>
+    -->
   </h1>
 </div>
 
