@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bbe75b3fff295b10b42c8054e770f6422494d62b&rid=giphy.gif&ct=g" width="400" alt="Animated GIF"/>
   
   <h1>
-    Hi, I’m Miguel
+    Hello, World!
     <div id="badges">
       <a href="https://www.linkedin.com/in/reisaraujo-miguel/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
