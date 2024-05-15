@@ -7,9 +7,6 @@
       <a href="https://www.linkedin.com/in/reisaraujo-miguel/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="https://gitlab.com/reisaraujo.miguel/">
-        <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
-      </a>
     </div>
   </h1>
 </div>
