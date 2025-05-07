@@ -26,6 +26,7 @@
 - 👀 Interested in **Software Engineering**
 - 🎓 Studying **Computer Science** at **University of São Paulo (USP)**
 - 💞️ Looking to collaborate on **Free Software** projects
+- My Résumé: https://reisaraujo-miguel.github.io/my-resume/
 
 ### :fire: My Stats :
 
