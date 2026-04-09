@@ -11,13 +11,9 @@
   </h1>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reisaraujo-miguel&style=flat-square&color=blue" alt="Profile Views Counter"/>
-</p>
-
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=reisaraujo-miguel&theme=radical&column=-1&no-bg=true&no-frame=true" alt="Miguel Trophies" />
+    <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=reisaraujo-miguel&theme=radical&column=-1&no-bg=true&no-frame=true" alt="Miguel Trophies" />
   </a>
 </p>
 
@@ -35,8 +31,8 @@
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=reisaraujo-miguel&show_icons=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Profile Status"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisaraujo-miguel&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+  <img height="160em" src="./profile/stats.svg" alt="Profile Status"/>
+  <img height="160em" src="./profile/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <!---
